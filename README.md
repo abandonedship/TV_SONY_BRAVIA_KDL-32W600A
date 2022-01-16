@@ -5,6 +5,6 @@ You can host it in an apache server configuring ports.conf with your host addres
 
 # Screenshots
 Terminal  
-![alt text](https://github.com/0bfxGH0ST/TV_SONY_BRAVIA_KDL-32W600A/blob/main/screenshots/screenshot01.png)  
+![alt text](https://github.com/0bfxgh0st-secondary/TV_SONY_BRAVIA_KDL-32W600A/blob/main/screenshots/screenshot01.png)  
 Webpage  
-![alt text](https://github.com/0bfxGH0ST/TV_SONY_BRAVIA_KDL-32W600A/blob/main/screenshots/screenshot2.png)
+![alt text](https://github.com/0bfxgh0st-secondary/TV_SONY_BRAVIA_KDL-32W600A/blob/main/screenshots/screenshot2.png)
